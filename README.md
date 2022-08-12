@@ -1,3 +1,5 @@
+[![Github Pages Astro CI](https://github.com/erg208/erg208.github.io/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/erg208/erg208.github.io/actions/workflows/deploy.yml)
+
 # Welcome to erg208.github.io built with [Astro](https://astro.build)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
